@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\debas_e\zappy\android\Zappy\android\assets" >
+            <file
+                name="data/mainMenu/andy.fnt"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\andy.fnt" />
+            <file
+                name="data/mainMenu/andy1.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\andy1.png" />
+            <file
+                name="data/mainMenu/andy2.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\andy2.png" />
+            <file
+                name="data/mainMenu/default.fnt"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\default.fnt" />
+            <file
+                name="data/mainMenu/default.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\default.png" />
+            <file
+                name="data/mainMenu/remove_cross.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\remove_cross.png" />
+            <file
+                name="data/mainMenu/uiskin.atlas"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\uiskin.atlas" />
+            <file
+                name="data/mainMenu/uiskin.json"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\uiskin.json" />
+            <file
+                name="data/mainMenu/uiskin.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\uiskin.png" />
+            <file
+                name="data/mainMenu/zappy_main.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\mainMenu\zappy_main.png" />
+            <file
+                name="data/music/gameMusic.mp3"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\music\gameMusic.mp3" />
+            <file
+                name="data/music/menuMusic.mp3"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\music\menuMusic.mp3" />
+            <file
+                name="data/music/soundSprite.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\music\soundSprite.png" />
+            <file
+                name="data/sprites/all_sprite.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\sprites\all_sprite.png" />
+            <file
+                name="data/sprites/animation_sheet.png"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\sprites\animation_sheet.png" />
+            <file
+                name="data/sprites/ground.jpg"
+                path="C:\Users\debas_e\zappy\android\Zappy\android\assets\data\sprites\ground.jpg" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\debas_e\zappy\android\Zappy\android\src\debug\assets" />
+    </dataSet>
+
+</merger>
